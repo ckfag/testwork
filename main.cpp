@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;   
 int main(){
-    cout<<"BBB";
+    cout<<"B0B";
 }
